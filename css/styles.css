@@ -281,7 +281,9 @@ footer .tel:focus {
 .address .item:first-child {
   margin-top: 20px;
 }
-
+.address .item{
+  font-style: normal;
+}
 
 /* Portfolio - page */
 
@@ -342,5 +344,6 @@ footer .tel:focus {
   margin: 0px;
   }
 .description{
-  margin: 20px 0px;
+  padding: 20px 24px;
+
 }
